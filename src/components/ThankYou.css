@@ -1,0 +1,45 @@
+#thank-you {
+    height: 260px;
+    background-image: url('https://image.slidesdocs.com/responsive-images/slides/0-blue-green-simple-and-refreshing-three-dimensional-gradient-work-summary-powerpoint-background_cd8ca0fd8d__960_540.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  
+  .thank-you-container {
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .image-container {
+    flex: 0 0 30%;
+    text-align: center;
+  }
+  
+  .thank-you-image {
+    max-height: 100%;
+    max-width: 100%;
+  }
+  
+  .content-container {
+    flex: 1;
+    background-color: transparent;
+    padding: 5px;
+  }
+  
+  .text-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
